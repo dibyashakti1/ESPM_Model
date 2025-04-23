@@ -1,9 +1,9 @@
 # ESPM_Model
-This set of functions generates two additional dislocations to the deep dislocation model, which originally considers only a single dislocation to estimate displacement on the surface
+This set of functions generates two additional dislocations (green and blue lines) in addition to the deep dislocation model (red line), which originally considers only a single dislocation to estimate displacement on the surface
 
 
 Function: espm_geometry (inputs: Fault Dip, Locking Depth, Plate thickness)
-Creates the Elastic Subducting Plate Model by adding two additional dislocations mimicking a subducted slab geometry with a finite thickness.
+Creates the Elastic Subducting Plate Model by adding two additional dislocations (green and blue lines) mimicking a subducted slab geometry with a finite thickness.
 
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/0f2c8630-36c5-4a47-bab6-9a61905b835d" />
